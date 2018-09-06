@@ -1,0 +1,7 @@
+{
+  "name": "MyOutfit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
